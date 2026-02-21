@@ -6,6 +6,7 @@ life_assets = [
     "Short commute",
     "Harmonious team",
     "Study buffers for OSCP"
+    "Git Mastery"
 ]
 
 print("--- [System Scan: Detected Assets] ---")
